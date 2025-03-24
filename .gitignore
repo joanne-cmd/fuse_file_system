@@ -1,0 +1,10 @@
+# Ignore the target directory
+target/
+
+# Ignore build artifacts
+**/*.rs.bk
+
+# Ignore editor/IDE files
+.idea/
+.vscode/
+*.swp
